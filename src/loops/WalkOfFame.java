@@ -5,7 +5,6 @@
 package loops;
 
 import org.jointheleague.graphical.robot.Robot;
-
 public class WalkOfFame {
 	public static void main(String[] args) {
 		Robot rob = new Robot();
